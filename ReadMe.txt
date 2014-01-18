@@ -1,1 +1,1 @@
-This are assignment programs I wrote for the course computing for data analysis by Roger Peng.
+These are assignment programs I wrote for the course computing for data analysis by Roger Peng.
